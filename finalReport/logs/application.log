@@ -1,0 +1,9 @@
+07/01/2019 23:14:04 devpinoyLogger live
+07/01/2019 23:14:04 devpinoyLogger null
+07/01/2019 23:14:09 devpinoyLogger TC_001_VerifyAllContryResponseHas_US_DE_GB_InAlpha2_PASSED_TimeStamp:11_14_09PM_07_Jan_2019 _IP10.0.75.1
+07/01/2019 23:14:10 devpinoyLogger TC_002_VerifyIndividualResponse_US_InAlpha2AndAlpha3_PASSED_TimeStamp:11_14_10PM_07_Jan_2019 _IP10.0.75.1
+07/01/2019 23:14:10 devpinoyLogger TC_003_VerifyIndividualResponse_US_lowercase_InAlpha2AndAlpha3_PASSED_TimeStamp:11_14_10PM_07_Jan_2019 _IP10.0.75.1
+07/01/2019 23:14:11 devpinoyLogger TC_004_VerifyIndividualResponse_DE_InAlpha2AndAlpha3_PASSED_TimeStamp:11_14_11PM_07_Jan_2019 _IP10.0.75.1
+07/01/2019 23:14:11 devpinoyLogger TC_005_VerifyIndividualResponse_GB_InAlpha2AndAlpha3_PASSED_TimeStamp:11_14_11PM_07_Jan_2019 _IP10.0.75.1
+07/01/2019 23:14:12 devpinoyLogger TC_006_VerifyIndividualResponseForNonExistentCountry_AlienCountry_PASSED_TimeStamp:11_14_12PM_07_Jan_2019 _IP10.0.75.1
+07/01/2019 23:14:12 devpinoyLogger TC_007_VerifyPostRequestThatIsUnderDevelopment_FAILED_TimeStamp:11_14_12PM_07_Jan_2019 _IP10.0.75.1

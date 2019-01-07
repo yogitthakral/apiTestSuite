@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <echo message="Clean Task Execution"/>
+  <mkdir dir="./finalReport"/>
+  <delete includeemptydirs="true">
+    <fileset includes="**/*" dir="finalReport"/>
+  </delete>
+  <delete file="Config.properties"/>
+  <mkdir dir="./finalReport/logs"/>
+  <touch file="Config.properties"/>
+</target>
+</project>

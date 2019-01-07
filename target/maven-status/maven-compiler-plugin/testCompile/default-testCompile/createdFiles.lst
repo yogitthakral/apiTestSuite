@@ -1,0 +1,8 @@
+groupktservice\apiTestSuite\ApiTest.class
+groupktservice\CustomReporter\ExtentManager.class
+groupktservice\core\ConfigGenerator.class
+groupktservice\CustomReporter\CustomListener.class
+groupktservice\resources\EndPoints.class
+groupktservice\utils\JsonUtils.class
+groupktservice\core\ConfigDetails.class
+groupktservice\core\UrlProvider.class

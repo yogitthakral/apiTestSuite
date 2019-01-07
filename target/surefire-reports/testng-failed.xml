@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="groupktservice.CustomReporter.CustomListener"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="Test(failed)">
+    <classes>
+      <class name="groupktservice.apiTestSuite.ApiTest">
+        <methods>
+          <include name="initialize_ConfigVariables"/>
+          <include name="getBaseConfig"/>
+          <include name="TC_007_VerifyPostRequestThatIsUnderDevelopment"/>
+        </methods>
+      </class> <!-- groupktservice.apiTestSuite.ApiTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
